@@ -1,0 +1,91 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.navbar{
+  background-color: #28a745;
+  text-align: left;
+
+}
+
+.menu-expandido {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.barra-navegacion {
+  background-color: #28a745;
+  text-align: left;
+}
+
+.logo-blanco {
+  height: 25px;
+}
+
+.texto-local {
+  font-size: 1em;
+  color: #707070;
+  font-weight: 300;
+}
+
+.texto-direccion {
+  font-size: 0.8em;
+  color: #707070;
+  font-weight: 300;
+}
+
+.precio-descuento {
+  font-size: 1.25em;
+}
+
+.precio-alineado {
+  text-align: right;
+}
+
+.precio-original {
+  color: #707070;
+}
+
+.seccion-formulario {
+  background-color: #28a745;
+}
+
+.titulo-formulario {
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+.logo-footer {
+  height: 24px;
+}
+
+.contenedor-footer {
+  text-align: center;
+}
+
+.btn-enviar {
+  margin: auto;
+  font-weight: 500;
+}
+
+.texto-legal {
+  font-size: 1.1em;
+  text-align: center;
+  font-weight: 300;
+  color: #707070;
+}
+
+.input-formulario {
+  font-weight: 300;
+}
+
+.titulo-cupon {
+  font-weight: 300;
+  color: #212529;
+}
